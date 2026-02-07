@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-execution_times = [28.047063, 10.323569, 8.819564, 8.590485, 8.434320] 
+execution_times = [32.025289, 14.903143, 9.457431, 6.770025, 4.671895] 
 
 threads = [1, 4, 16, 64, 256]
 
